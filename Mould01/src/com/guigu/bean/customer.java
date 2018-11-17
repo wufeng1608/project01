@@ -21,6 +21,7 @@ public class customer {
 
     private static void mymeth(){
         System.out.println("haha");
+        System.out.println("this two test ");
 
     }
 

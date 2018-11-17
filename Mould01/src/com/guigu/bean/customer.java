@@ -20,6 +20,7 @@ public class customer {
     }
 
     private static void mymeth(){
+        System.out.println("haha");
 
     }
 
